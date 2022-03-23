@@ -1,0 +1,29 @@
+// .my__education {
+//   display: flex;
+//   flex-direction: row;
+// }
+
+.__degree {
+  display: flex;
+  flex-direction: row;
+}
+
+.my__school {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  color: black;
+  padding-top: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.NTUST {
+  //   padding-top: 1.5rem;
+
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 1rem;
+}
